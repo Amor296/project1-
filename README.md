@@ -1,4 +1,4 @@
-# project1-
+# Digital clock
 this is test repo 
 #include <iostream>
 #include <windows.h>
